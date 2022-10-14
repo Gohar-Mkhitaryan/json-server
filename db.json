@@ -1,0 +1,58 @@
+{
+  "car": [
+    {
+      "id": 1,
+      "make": "Ford",
+      "model": "Explorer",
+      "year": 2008,
+      "color": "red",
+      "fuel": "gas",
+      "mpg": 18
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2019,
+      "color": "red",
+      "fuel": "gas",
+      "mpg": 30,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "make": "Audi",
+      "model": "A3",
+      "year": 2020,
+      "color": "white",
+      "fuel": "gas",
+      "mpg": 20
+    },
+    {
+      "make": "\tHonda",
+      "model": "Accord",
+      "year": 2019,
+      "color": "red",
+      "fuel": "gas",
+      "mpg": 30,
+      "id": 4
+    },
+    {
+      "make": "\tHonda",
+      "model": "Accord",
+      "year": 2019,
+      "color": "red",
+      "fuel": "gas",
+      "mpg": 30,
+      "id": 5
+    },
+    {
+      "make": "\tHonda",
+      "model": "Accord",
+      "year": 2019,
+      "color": "red",
+      "fuel": "gas",
+      "mpg": 30,
+      "id": 6
+    }
+  ]
+}
